@@ -1,0 +1,17 @@
+header {
+    position: absolute;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+    top: 1.5rem;
+    left: 3rem;
+    right: 3rem;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+header div {
+    margin-right: 1.5rem;
+}

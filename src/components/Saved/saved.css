@@ -1,0 +1,30 @@
+.saved {
+    position: absolute;
+    top: 18vh;
+    left: 3rem;
+    right: 3rem;
+    background-color: white;
+    height: 70vh;
+    padding: 1.5rem 1rem;
+    border-radius: 30px;
+    display: flex;
+}
+
+.saved > div {
+    padding: 0.2rem 1rem;
+    flex: 1;
+    overflow-y: scroll;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    
+}
+
+.saved > div::-webkit-scrollbar {
+    display: none;
+}

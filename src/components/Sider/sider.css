@@ -1,0 +1,18 @@
+.sider {
+    position: relative;
+    top: 18vh;
+    background-color: white;
+    height: 70vh;
+    width: 33vw;
+    padding: 1.5rem 1rem;
+    margin-left: 3rem;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.geocoding div form .input-group{
+    padding: 0.3rem;
+}
