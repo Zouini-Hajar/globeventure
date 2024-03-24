@@ -14,7 +14,7 @@ Welcome to GlobeVenture, a simple React project that helps users discover hotels
 
 1. Clone the repository to your local machine:
 ```bash
-git clone
+git clone https://github.com/Zouini-Hajar/globeventure.git
 ```
 3. Navigate to the project directory:
 ```bash
